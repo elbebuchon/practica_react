@@ -1,0 +1,14 @@
+
+.btn {
+    width: 150px;
+    height: 130px;
+    background-color: rgb(134, 134, 215);
+    font-size: 30px;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom: 1.5em;
+}
+.btn:hover {
+   background-color: rgb(65, 89, 65);
+   font-family: Helvetica;
+}
