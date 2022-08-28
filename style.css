@@ -20,6 +20,24 @@ header{
     background-color: rgb(132, 132, 152);
 }
 .navegacion{
-    display: flex;
-    align-items: flex-start;
+        display: flex;     
+        align-items: flex-end;
+        justify-content:space-around;
+        margin: -30px ;
+        text-decoration: none;
+        list-style: none;
+}
+.navegacion :hover {
+    background-color: rgb(155, 201, 201);
+    size: 100px;
+}
+.tipo-btn {
+    width: 110px;
+    height: 30px;
+    background-color: rgb(18, 159, 164);
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5em;
+    
 }

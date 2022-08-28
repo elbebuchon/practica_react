@@ -15,3 +15,9 @@ button.addEventListener('onmouseover', function(event) {
 
 
 /*cambios*/
+/*
+  <-- extensiones HTML Boilerplate   cssPeek-->
+<-- html support    auto closer tag   live server-->
+<-- code snippet   npm  prettier-->
+
+*/
