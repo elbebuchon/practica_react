@@ -33,6 +33,11 @@ header{
 .navegacion :hover {
     background-color: rgb(155, 201, 201);
     size: 100px;
+    margin: 10px;
+}
+.nav-principal {
+    background-color: #61566b;
+    width: 100;
 }
 .tipo-btn {
     width: 110px;
@@ -41,5 +46,11 @@ header{
     align-items: center;
     justify-content: center;
     font-size: 1.5em;
-    margin: 10px;;
+    margin: 10px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.main-principal {
+    background-color: #e1af88;
+    height: 100em;
+    margin: 0;
 }
